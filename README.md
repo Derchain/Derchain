@@ -1,150 +1,89 @@
-# Kauã Derchain
+# 👨‍💻 Portfólio Backend – Derchain
 
-**`Dev Backend`**
-Me chamo Kauã Derchain, tenho 20 anos e sou de Campinas-SP. Atualmente curso Engenharia de Software e sou apaixonado por tecnologia, uma área que me fascina pela ampla diversidade de desafios que propõe e pelas constantes oportunidades de evolução. Também compartilho meu conhecimento e trajetória profissional no meu LinkedIn: Kaua Derchain
-.
+Bem-vindo ao meu portfólio backend!  
+Aqui estão projetos desenvolvidos com foco em **lógica de programação**, **APIs**, **boas práticas**, **organização de código** e **resolução de problemas reais**.
 
-<p align="left">
-   
-    
-   
-   
+Este repositório reúne meus estudos e projetos práticos voltados ao desenvolvimento **backend**, utilizando Java e conceitos fundamentais da engenharia de software.
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🧠 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Sou estudante de desenvolvimento backend com foco em construir aplicações **funcionais, organizadas e bem estruturadas**.  
+Tenho interesse especial em lógica de programação, controle de fluxo, APIs REST e integração com banco de dados.
 
-<br/>
-<br/>
+Atualmente estudo e pratico:
+- Java
+- Lógica de Programação
+- Estruturas de Controle (`if`, `switch`, `while`, `for`)
+- Programação orientada a objetos (POO)
+- Boas práticas de código
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 🚀 Projetos
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 📌 Menu Interativo em Java
+🔗 Repositório: https://github.com/seu-usuario/menu-interativo-java  
 
-</p>
+**Descrição:**  
+Aplicação em Java executada no console que utiliza `while`, `switch` e `Scanner` para criar um menu interativo.  
+O usuário pode escolher opções até decidir sair do programa.
+
+**Funcionalidades:**
+- Exibir mensagem de boas-vindas
+- Ler e exibir um número digitado
+- Somar dois números informados
+- Encerrar o programa de forma controlada
+
+**Conceitos aplicados:**
+- Controle de fluxo
+- Laços de repetição
+- Estrutura de decisão
+- Entrada de dados pelo console
+
+---
+
+### 📌 Exercícios de Lógica em Java
+🔗 Repositório: https://github.com/seu-usuario/exercicios-logica-java  
+
+**Descrição:**  
+Coleção de exercícios práticos focados em desenvolver raciocínio lógico e domínio das estruturas básicas da linguagem Java.
+
+**Conteúdo:**
+- Condições (`if / else`)
+- Laços (`while`, `for`)
+- Funções e métodos
+- Manipulação de dados simples
+
+---
+
+## 🛠️ Tecnologias
+
+- Java
+- Scanner (entrada de dados)
+- Git & GitHub
+- IntelliJ / VS Code
+- Console Application
+
+---
+
+## 📈 Objetivo do Portfólio
+
+Este portfólio tem como objetivo demonstrar:
+- Evolução no aprendizado de backend
+- Capacidade de resolver problemas
+- Código limpo e organizado
+- Base sólida em lógica de programação
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/seu-usuario
+- LinkedIn: https://linkedin.com/in/seu-perfil
+- Email: seuemail@email.com
+
+---
+
+⭐ Este portfólio está em constante evolução conforme avanço nos estudos e projetos.
