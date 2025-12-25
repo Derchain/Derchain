@@ -80,9 +80,9 @@ Este portfólio tem como objetivo demonstrar:
 
 ## 📫 Contato
 
-- GitHub: https://github.com/seu-usuario
-- LinkedIn: https://linkedin.com/in/seu-perfil
-- Email: seuemail@email.com
+- GitHub: https://github.com/Derchain
+- LinkedIn: https://www.linkedin.com/in/kaua-derchain-1a1974220/
+- Email: devkaua@gmail.com
 
 ---
 
